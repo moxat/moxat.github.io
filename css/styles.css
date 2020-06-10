@@ -21,11 +21,14 @@ h1{
 }
 .nav-item { 
     padding: 0 18px;
-    font-size: 1.2rem;
-    font-family: "montserrat";
+    
 }
 .navbar-brand {
     font-family: 'Ubuntu', sans-serif;
     font-size: 2.5rem;
     font-weight: bold;
+}
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "montserrat";
 }
