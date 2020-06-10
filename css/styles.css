@@ -49,7 +49,7 @@ h1{
     padding: 5%;
 }
 h3 {
-    font-family: "montserrat";
+    font-family: "montserrat",sans-serif;
 }
 p {
     color: #8f8f8f;
