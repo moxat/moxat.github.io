@@ -1,6 +1,4 @@
-body {
-    font-family: 'Montserrat',sans-serif;
-}
+
 
 .container-fluid {
     padding: 3% 15%;
@@ -55,6 +53,12 @@ h3 {
 }
 p {
     color: #8f8f8f;
+}
+.icon{
+    color: #ef8172;
+}
+.icon:hover{
+    color: #ff4c68 ;
 }
 
 /* testimonials section  */
