@@ -16,6 +16,7 @@ h1{
     background-color: #ff4c68  ;  
     color: #fff;
 }
+/* navbar*/
 .navbar {
     padding:0 0 4.5rem;
 }
@@ -32,3 +33,7 @@ h1{
     font-size: 1.2rem;
     font-family: "montserrat";
 }
+/* download-buttons */
+.download-button {
+    margin: 5% 3% 5% 0;
+} 
