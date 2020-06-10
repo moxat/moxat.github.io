@@ -78,3 +78,13 @@ p {
     width: 10%;
     border-radius: 100%;
 }
+ /*press */
+ #press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+ }
+ .press-icon {
+     width: 15%;
+     margin: 20px 20px 50px;
+ }
