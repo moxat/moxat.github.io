@@ -53,6 +53,9 @@ h1{
 h3 {
     font-family: "montserrat";
 }
+p {
+    color: #8f8f8f;
+}
 
 /* testimonials section  */
 #testimonials {
