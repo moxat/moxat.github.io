@@ -64,5 +64,6 @@ p {
 
 /* testimonials section  */
 #testimonials {
-    background-color: tomato;
+    text-align: center;
+    padding: 7% 15%;
 }
