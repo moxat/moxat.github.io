@@ -42,3 +42,6 @@ h1{
     width: 60%;
     transform: rotate(25deg);
 }
+.fas:hover {
+    color: tomato;
+}
