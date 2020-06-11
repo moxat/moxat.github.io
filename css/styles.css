@@ -104,8 +104,10 @@ p {
     background-color:#ff4c68 ;
     text-align: center;
     color: white;
+
 }
-.cta {
-    padding: 0px auto auto 15px;
+/* footer */
+#footer {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
- 
