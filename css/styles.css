@@ -120,14 +120,15 @@ p {
     color: grey;
 }
 .fab fa-twitter-square {
-    padding:unset 3%;
+    margin:unset 3%;
 }
 .fab fa-facebook-f {
-    padding:unset 3%;
+    margin:unset 3%;
 }
 .fas fa-hashtag {
-    padding:unset 3%;
+    margin:unset 3%;
 }
 .far fa-envelope fa {
-    padding:unset 3%;
+    margin:unset 3%;
+    
 }
