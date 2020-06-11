@@ -113,7 +113,7 @@ p {
     padding: 5% 10%;
 }
 .social-btn{
-    padding: unset 3%;
+    padding: unset 5%;
 }
 .social-btn:hover {
     color: grey;
