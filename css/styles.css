@@ -110,7 +110,7 @@ p {
 #footer {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    padding: 10% 200%;
+    padding: 10% 20%;
 }
 .social-btn:hover {
     color: grey;
