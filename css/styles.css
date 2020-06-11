@@ -98,11 +98,12 @@ p {
 
 #pricing {
     background-color: #fff;
-    
-}
-  /*  .pricing-title {
+    padding: 100px;
     text-align: center;
-}   */
+}
+ .pricing-column {
+     padding: 3% 2%;
+ }
 
 
 /* call to action */ 
