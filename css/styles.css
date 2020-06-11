@@ -96,7 +96,9 @@ p {
 
 /* pricing */
 
-
+#pricing {
+    background-color: #fff;
+}
 
 
 /* call to action */ 
@@ -118,17 +120,4 @@ p {
 }
 .social-btn:hover {
     color: grey;
-}
-.fab fa-twitter-square {
-    margin:unset 3%;
-}
-.fab fa-facebook-f {
-    margin:unset 3%;
-}
-.fas fa-hashtag {
-    margin:unset 3%;
-}
-.far fa-envelope fa {
-    margin:unset 3%;
-    
 }
